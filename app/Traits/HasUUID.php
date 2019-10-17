@@ -3,7 +3,7 @@ namespace App\Traits;
 
 use Illuminate\Support\Str;
 
-class HasUUID
+trait HasUUID
 {
     /**
      * Boot model class.
